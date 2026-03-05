@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Jeane
 
-<!--
-**jeanegdss/jeanegdss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Python Developer  
+📚 Currently learning programming and open source  
+🚀 Building projects to improve my coding skills  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I'm learning
+- Python
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Calculator in Python
+- Task Manager in Python
+- Password Generator
+
+## 🎯 Goals
+- Contribute to open source
+- Improve my Python skills
+- Work on real development projects
